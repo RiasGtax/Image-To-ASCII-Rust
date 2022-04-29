@@ -1,2 +1,2 @@
 # Image-To-ASCII-Rust
-Rust migration from the "Image-To-ASCII" repo
+Small migration from "Image-To-ASCII" to Rust as a learning project
